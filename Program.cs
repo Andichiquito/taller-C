@@ -5,7 +5,10 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("ya puepeji");
+            int n1 = 14;
+            int n2 = 15;
+            int result = n1 + n2;
+            Console.WriteLine(result);
         }
     }
 }
